@@ -1,0 +1,29 @@
+img{
+  width: auto;
+  height: auto;
+  align-content: center;
+}
+body{
+  background-color: #1a5767ff;
+  background-image: url('bg.jpg');
+}
+header{
+  text-align: center;
+}
+*{
+  font-family: 'Lobster', cursive;
+  color: white;
+  font-size
+}
+span{
+  font-size: 200%;
+}
+h1{
+  font-size : 100px;
+}
+p{
+  text-align: center ;
+}
+button{
+  font-size: 150%;
+}
